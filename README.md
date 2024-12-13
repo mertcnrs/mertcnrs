@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋, I'm ibrahim Bayburtlu
+A passionate Software Engineer from Turkey
+🌱 I’m currently learning Java and Spring Boot
 
-<!--
-**mertcnrs/mertcnrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Ask me about Spring & Algorithm & Java
 
-Here are some ideas to get you started:
+📫 How to reach me ibrahimbayburtlu5@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+bayburtlu_ibos ibrahim bayburtlu https://leetcode.com/ibrahimbayburtlu5/
+
+Languages and Tools:
+bootstrap css3 git html5 java javascript linux mongodb mysql postgresql python react redux sass spring
